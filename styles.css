@@ -1,0 +1,147 @@
+.header {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    font-family: inherit;
+    width: auto;
+    height: 100px;
+    background-color: #eaeaea;
+    padding: 10px;
+}
+
+h2.header {
+    text-align: center;
+    padding:25px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-width: 7px;
+    border-color: #000;
+    cursor: pointer;
+}
+
+.navbar {
+    text-align: center;
+    background: #dfdfdf; 
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 0.9;
+    border: 3px solid #fff;
+    min-width: 100%;
+}
+
+.navbar ul {
+    display: inline-block;
+    list-style: none; 
+    padding: 0;
+}
+
+.navbar ul li {
+    float: left;
+    margin-bottom: 15px;
+}
+
+.navbar ul li a {
+    padding: 10px 25px; 
+    background: #fff; 
+    margin-right: 5px;
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    background: #000;
+    color: #fff;
+}
+
+a {
+    display: block;
+    width: 100px;
+    text-decoration: none;
+    color: #000;
+    
+}
+
+.login-box {
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-width: 7px;
+    border-color: #000;
+  
+}
+
+.login-toggle {
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-width: 7px;
+    border-color: #000;
+    cursor: pointer;
+  
+}
+
+.register {
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.register-toggle {
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+.add-holiday {
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.holiday-toggle{
+    width: 300px;
+    padding: 15px;
+    background-color: #eaeaea;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    cursor: pointer;
+}
