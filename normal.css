@@ -1,0 +1,31 @@
+body {
+    background-image: url("holiday.jpg");
+}
+
+
+.forename {
+
+    color: #d63131;
+	font-weight: bold;
+	font-family: cursive;
+    
+    
+
+}
+
+
+*/* p {
+
+      color: #3A5FCD; 
+      border: 10px solid #f00847; 
+      padding: 2px
+    
+}
+
+#p1 {
+     
+      color: #3A5FCD; 
+      border: 10px solid #f00847; 
+      padding: 2px 
+    
+}
